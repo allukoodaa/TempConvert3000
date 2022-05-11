@@ -1,4 +1,4 @@
-#--AlluKoodaa--#
+#----AlluKoodaa----#
 
 import temp_conversion_module as converter
 
@@ -63,4 +63,4 @@ def main():
 
 main()
 
-#--eof--#
+#----eof----#
