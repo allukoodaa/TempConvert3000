@@ -1,4 +1,4 @@
-#--AlluKoodaa--#
+#----AlluKoodaa----#
 
 def ftc(x): # Fahrenheit to Celsius
     return (x -32) * (5 / 9)
@@ -20,4 +20,4 @@ def ctf(x): # Celsius to Fahrenheit
 
 VERSION = 1.0
 
-#--eof--#
+#----eof----#
